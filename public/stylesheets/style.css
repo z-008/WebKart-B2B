@@ -1,0 +1,40 @@
+.thumbnail img {
+    max-height: 150px;
+}
+
+.thumbnail .description {
+    color: #111111;
+}
+body{
+	overflow-x: hidden;
+	
+}
+.page-footer{
+	background-color: #111111;
+	color:white;
+}
+
+.jumbotron{
+	background-color: #111111;
+}
+.navbar.navbar-default .navbar-brand{
+	color:black;
+}
+
+.price {
+    font-weight: bold;
+    font-size: 16px;
+}
+
+.carousel-inner > .item > img {
+  	width:150%;
+  	height:400px;
+}
+
+.navbar-form.navbar-left.width_fix{
+	width:600px;
+}
+
+.width_fix	{
+	width:600px	;
+}
